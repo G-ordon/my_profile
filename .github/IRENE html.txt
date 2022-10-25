@@ -1,0 +1,11 @@
+<html>
+<body>
+ <p align="right">The first paragraph aligned to the right .</p>
+ <p>This is second paragraph.
+ <br>A new line,but in the second paragraph.</p>
+ <p>A third paragraph,and then a horizontal line</p>
+ <hr>
+ <p>Some modified horizontal line .</p>
+ <hr width="50%"size="8"align="centre">
+</body> 
+</html>  
