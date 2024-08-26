@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gordon Ochieng
-- 👀 I’m interested in css
+- 👀 I’m interested in elixir
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on htm
+- 💞️ I’m looking to collaborate phoenix web framework
 - 📫 How to reach me "https://github.com/GordonOchieng/.git"
 
 <!---
