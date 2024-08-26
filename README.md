@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gordon Ochieng
 - 👀 I’m interested in elixir
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning elixir
 - 💞️ I’m looking to collaborate phoenix web framework
 - 📫 How to reach me "https://github.com/GordonOchieng/.git"
 
